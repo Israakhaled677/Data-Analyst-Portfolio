@@ -1,6 +1,5 @@
-use projects 
-go 
-
+--This project analyzes a fictional pizza sales database to uncover key business insights such as revenue generation
+popular pizza types, customers' preferences and order patterns
 
 select * from order_details;  -- order_details_id	order_id	pizza_id	quantity
 
