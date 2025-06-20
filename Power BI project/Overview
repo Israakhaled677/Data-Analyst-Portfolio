@@ -1,0 +1,16 @@
+Hotel Bookings Analysis Project
+📋 Overview
+This project is a complete end‑to‑end Power BI analysis of hotel booking data. It covers data cleaning, 
+creating a calendar table for time intelligence, and building an interactive Power BI dashboard to explore booking patterns,
+revenue, and customer behavior.
+
+
+⚡️ What I Worked On
+Data Cleaning & Modeling: Prepared raw booking data for analysis and built relationships between tables.
+
+Time Intelligence: Created a calendar table and used DAX measures for revenue and trend analyses across different time periods.
+
+Visualization & Dashboard: Developed an interactive Power BI report, including metrics for revenue, lead times, cancellation patterns, and seasonal booking trends.
+
+🎯 Goal
+The goal of this project was to gain actionable insights into hotel bookings and revenues, allowing stakeholders to understand trends and make better decisions.
