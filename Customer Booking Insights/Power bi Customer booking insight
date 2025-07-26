@@ -1,1 +1,10 @@
+📊 Project Overview: Customer Bookings & Visa Applications – Switzerland Focus
+This Power BI project analyzes customer bookings and visa application trends, with a focus on Switzerland. It brings together data on:
 
+🛂 Visa Applications – status, processing time, and fees
+
+🧍 Customer Behavior – gender, country, and demand patterns
+
+🏨 Hotel & Ticket Reservations – cost, location, and travel flow
+I used DAX calculations, interactive visuals, and custom icons to enhance clarity and engagement. 
+The project allows users to explore reservation patterns, visa demand, and overall customer behavior in one place.
