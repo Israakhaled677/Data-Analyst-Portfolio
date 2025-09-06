@@ -1,0 +1,79 @@
+
+Employee Master Data Analytics in Excel
+
+
+
+📖 Project Overview
+
+This project analyzes employee master data to provide insights into workforce structure, performance, and turnover.
+The dataset includes information about active and terminated employees, demographics, performance, and tenure.
+The dashboard is fully dynamic, built with slicers and timelines for interactive exploration.
+
+
+
+🎯 Objectives
+
+Track active vs. terminated employees
+
+Analyze employee demographics (age, gender, department, state)
+
+Identify top-performing employees & departments
+
+Measure employee tenure & turnover trends
+
+Explore job title distributions and most common roles
+
+Compare average performance scores across departments
+
+Provide a dynamic dashboard for management decision-making
+
+
+
+🛠️ Data Preparation
+
+Created several helper columns to enrich the dataset:
+
+Tenure → calculated length of service
+
+Employment Status → Active / Terminated flag
+
+Age Grouping → used to analyze average age by position/department
+
+Performance Index → converted text performance ratings into numeric values for easier aggregation and visualization
+
+Turnover Flag → marked employees who left in the last year
+
+
+
+📊 Key Analyses
+
+1. Active vs. Terminated Employees – trend analysis over time
+
+2. Top Performers – identifying employees with the highest performance index
+
+3. Average Age by Department & Position – understanding workforce demographics
+
+4. Employee Distribution by Department – headcount analysis
+
+5. Gender Ratio – balance of male vs. female employees
+
+6. Employees by State – geographical workforce spread
+
+7. Most Common Job Titles – frequency analysis of positions
+
+8. Turnover Analysis (last year) – insights into employee exits
+
+9. Performance Insights – average and high performers per department
+
+10. Termination Reasons – top causes for attrition
+
+
+
+⚙️ Features
+
+Fully interactive dashboard using slicers & timeline
+
+Dynamic charts for real-time filtering
+
+Clean and structured dataset with helper columns for deeper analysis
+
