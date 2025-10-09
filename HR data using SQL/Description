@@ -1,0 +1,14 @@
+## HR Analytics SQL Project
+
+This project analyzes HR employee data (IBM Employee Attrition dataset).
+The goal is to explore employee performance, attrition, salaries, and promotions
+
+🎯 Project Objectives
+
+- Understand salary and attrition patterns.
+
+- Identify top performers and promotion candidates.
+
+- Compare departments on various HR metrics.
+
+- Apply SQL intermediate techniques to real HR problems.
